@@ -26,7 +26,11 @@ pip install -r requirements.txt
 ```
 
 
-Few Git Commands:
-1. git add . ---> to commit all files
-2. git status ---> to check the status (staged or committed)
-3. git log ---> to check the hashes of commits, author and date
+> Few Git Commands used in the process:
+1. ``` git add .``` ---> to commit all files
+2. ``` git status``` ---> to check the status (staged or committed)
+3. ``` git log``` ---> to check the hashes of commits, author and date
+4. ``` git commit -m "message"``` ---> writing the changes 
+5. ``` git remote -v``` ---> To check remote url
+6. ```git branch``` ---> to check the branch name to push
+7. ```git push origin main``` ---> push it to the main branch
