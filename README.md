@@ -37,8 +37,8 @@ pip install -r requirements.txt
 
 ### To Setup CI/CD Pipeline in Heroku
 1. HEROKU_EMAIL = sandeepiit.ism@gmail.com
-2. HEROKU_API_KEY = 0c944d4f-3ab4-4e45-9728-4748a05a197a
-3. HEROKU_APP_NAME = 
+2. HEROKU_API_KEY = ***************************
+3. HEROKU_APP_NAME = mlapp-v1.0
 
 ### Create Dockerfile
 1. create dockerfile and .dockerignore
