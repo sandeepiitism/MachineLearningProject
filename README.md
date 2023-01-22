@@ -32,5 +32,5 @@ pip install -r requirements.txt
 3. ``` git log``` ---> to check the hashes of commits, author and date
 4. ``` git commit -m "message"``` ---> writing the changes 
 5. ``` git remote -v``` ---> To check remote url
-6. ```git branch``` ---> to check the branch name to push
-7. ```git push origin main``` ---> push it to the main branch
+6. ``` git branch``` ---> to check the branch name to push
+7. ``` git push origin main``` ---> push it to the main branch
