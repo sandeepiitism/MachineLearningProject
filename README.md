@@ -34,3 +34,34 @@ pip install -r requirements.txt
 5. ``` git remote -v``` ---> To check remote url
 6. ``` git branch``` ---> to check the branch name to push
 7. ``` git push origin main``` ---> push it to the main branch
+
+### To Setup CI/CD Pipeline in Heroku
+1. HEROKU_EMAIL = sandeepiit.ism@gmail.com
+2. HEROKU_API_KEY = 0c944d4f-3ab4-4e45-9728-4748a05a197a
+3. HEROKU_APP_NAME = 
+
+### Create Dockerfile
+1. create dockerfile and .dockerignore
+2. cmd ---> ``` docker --version```
+3. ``` docker status```
+4. Build docker image:
+``` 
+docker build -t <image_name>:<tagname> .
+```
+5. To list docker images:
+```
+docker images
+```
+6. To Run the docker image:
+```
+docker run -p 5000:5000 -e PORT=5000 45c4548c7725
+```
+7. To check running containers:
+```
+docker ps
+```
+
+8. To Stop docker container:
+```
+docker stop container_id 
+``` <e9c6>
