@@ -1,4 +1,4 @@
-## Machine Learning Modelling and Deployement using Git 
+## Setting Up Git and Docker 
 
 ### Requirements:
 
